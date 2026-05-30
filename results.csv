@@ -1,0 +1,25 @@
+Algorithm,N,Solved,FinalConflicts,TimeSeconds,PeakMemoryMB
+DFS Backtracking,10,Yes,0,0.0006,0.0137
+Hill Climbing,10,Yes,0,0.0023,0.005
+Simulated Annealing,10,Yes,0,0.005,0.0044
+Genetic Algorithm,10,Yes,0,0.0173,0.0552
+DFS Backtracking,30,Yes,0,0.0027,0.0327
+Hill Climbing,30,Yes,0,0.0019,0.006
+Simulated Annealing,30,Yes,0,0.0661,0.0056
+Genetic Algorithm,30,Yes,0,0.0943,0.0926
+DFS Backtracking,50,Yes,0,0.0013,0.0374
+Hill Climbing,50,Yes,0,0.0032,0.0073
+Simulated Annealing,50,Yes,0,0.0647,0.0068
+Genetic Algorithm,50,Yes,0,0.2138,0.1299
+DFS Backtracking,100,Yes,0,0.061,0.1486
+Hill Climbing,100,Yes,0,0.0114,0.0108
+Simulated Annealing,100,Yes,0,0.0063,0.0084
+Genetic Algorithm,100,Yes,0,0.6732,0.2233
+DFS Backtracking,200,Yes,0,0.1728,0.4174
+Hill Climbing,200,Yes,0,0.0401,0.0176
+Simulated Annealing,200,Yes,0,0.0425,0.0161
+Genetic Algorithm,200,Yes,0,6.0279,0.6011
+DFS Backtracking,500,Yes,0,81.6305,5.9149
+Hill Climbing,500,Yes,0,0.6376,0.0599
+Simulated Annealing,500,Yes,0,0.9206,0.0505
+Genetic Algorithm,500,Yes,0,89.8746,2.3418
